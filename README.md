@@ -11,5 +11,4 @@ App View
  ````
  ![Image of App](https://github.com/Ganeshk750/jQueryCRUD/blob/master/todo.PNG)
 
-### To Test
-[r2h]: https://ganeshk750.github.io/jQueryCRUD/
+
