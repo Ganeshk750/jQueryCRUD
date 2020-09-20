@@ -12,3 +12,5 @@ App View
  ![Image of App](https://github.com/Ganeshk750/jQueryCRUD/blob/master/todo.PNG)
 
 
+[![Test Badge](https://img.shields.io/badge/-test?style=flat-square&logo=test&logoColor=white&link=https://ganeshk750.github.io/jQueryCRUD/)](https://ganeshk750.github.io/jQueryCRUD/)
+
